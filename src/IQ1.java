@@ -1,3 +1,5 @@
+import org.openqa.selenium.Alert;
+
 public class IQ1 {
 
 
@@ -22,5 +24,6 @@ public class IQ1 {
         char name = 'a';
         int _123 = 123;
 
+      // Alert alert = driver.switchTo().alert();
     }
 }
